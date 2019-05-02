@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "switch-view",
-    "slug": "switch-view",
+    "name": "myApp",
+    "slug": "myApp",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
